@@ -1,3 +1,2 @@
 #!/bin/bash
-./set_permissions.sh
-
+chmod 007 hello
