@@ -1,3 +1,2 @@
 #!/bin/bash
-./add_permissions.sh
-
+chmod 771 hello

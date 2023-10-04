@@ -1,3 +1,2 @@
 #!/bin/bash
-./add_execute_permissions.sh
-
+chmod 111 hello
