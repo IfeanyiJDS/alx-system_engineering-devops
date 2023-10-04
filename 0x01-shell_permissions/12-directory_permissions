@@ -1,0 +1,3 @@
+#!/bin/bash
+./create_my_dir.sh
+
